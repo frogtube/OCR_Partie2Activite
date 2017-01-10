@@ -1,0 +1,1 @@
+var monProjet = "mon projet";
